@@ -146,7 +146,7 @@ gcc main.c -o passguard -lraylib -lm -lpthread -ldl -lrt -lX11
 ![Error Message](./githubAssets/errorMessage.gif)
 
 ### Save & Load Users Screen
-![Save & Load Users](./githubAssets/saveloadUsers.gif)
+![Save & Load Users](./githubAssets/loadsaveUsers.gif)
 
 ---
 
