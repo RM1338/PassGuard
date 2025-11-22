@@ -212,7 +212,7 @@ See the [LICENSE](LICENSE) file.
   LinkedIn: [Ronel Abraham Mathew](https://linkedin.com/in/ronelm)
 
 - **Joshua Sibichan Scariya** – Sign In/Up, Business & Emergency Pages, Interactive JS  
-  GitHub: [gavriel953](https://github.com/BuildwJoshh)  
+  GitHub: [BuildwJoshh](https://github.com/BuildwJoshh)  
   LinkedIn: [Joshua Sibichan Scariya](https://www.linkedin.com/in/joshua-sibichan-scariya-141488380/)
 
 - **Aditilakshmanan** – Medical & Educational Pages  
